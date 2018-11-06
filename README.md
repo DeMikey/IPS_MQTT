@@ -1,5 +1,5 @@
 # IPS_MQTT
-MQTT Modul für IP-Symcon 4.1
+MQTT Modul für IP-Symcon 5.0
 
 Das Modul unterstützt das minimal Nötige um über MQTT Daten Sendent und Empangen zu können.
 
